@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lenagrandma
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Python coding, i started week ago)
+- 🌱 I’m currently learning Python coding, i started 3 month ago)
 
 <!---
 lenagrandma/lenagrandma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
